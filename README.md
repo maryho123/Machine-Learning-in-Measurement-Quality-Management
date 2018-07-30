@@ -1,4 +1,5 @@
-# Machine-Learning-in-Measurement-Quality-Management     Machine learning has made it possible to automatically review data and determine 
+# Machine-Learning-in-Measurement-Quality-Management     
+Machine learning has made it possible to automatically review data and determine 
 its quality. A machine learning algorithm can characterize how a data set is ‘bad’. Furthermore, another direction for the algorithm is 
 identifying the basics of the experiment and determining the configuration of the experiment based on pervious experience.
 The best way to train the machine is through a  quadratic discriminant analysis (QDA) classifier. It is flexible 
